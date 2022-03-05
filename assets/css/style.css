@@ -48,11 +48,31 @@ section h3 {
   float: right;
   border-radius: 5px;
 }
-.products h4 {
+.product_title {
   margin-bottom: 10px;
   font-size: 20px;
 }
 
-.products p {
+.product_description {
   margin-bottom: 10px;
+}
+
+.product_prize {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.button button {
+  background-color: #0b940b;
+  width: 100%;
+  padding: 15px;
+  color: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  border-radius: 50px;
+  border: none;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
 }

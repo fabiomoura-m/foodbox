@@ -15,7 +15,6 @@ body {
   border-radius: 10px;
   padding: 15px;
   color: white;
-  margin-bottom: 20px;
   box-shadow: 0 0 10px 0 #bbbbbb;
 }
 .header h1 {
@@ -26,11 +25,12 @@ body {
   font-size: 18px;
 }
 
-section > h3 {
+section h3 {
   font-family: 'Righteous', cursive;
   font-weight: normal;
   font-size: 30px;
   margin-bottom: 10px;
+  margin-top: 20px;
 }
 
 .products {

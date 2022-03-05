@@ -1,6 +1,6 @@
 # FoodBox
 
-![foodbox](https://user-images.githubusercontent.com/93055468/156895584-8aa4c7e5-8fcb-4108-adce-e485af57a7d5.gif)
+<img src="https://user-images.githubusercontent.com/93055468/156896093-974ebfba-76d0-4a3d-8141-caa96a0b321d.png" align="center" />
 
 ## 📋 Descrição do projeto
 

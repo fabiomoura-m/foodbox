@@ -1,4 +1,4 @@
-## FoodBox
+# FoodBox
 
 ![foodbox](https://user-images.githubusercontent.com/93055468/156895584-8aa4c7e5-8fcb-4108-adce-e485af57a7d5.gif)
 
@@ -12,6 +12,6 @@ Um aplicativo simples para pedir comida, onde é possível selecionar seu prato,
 - CSS
 - JavaScript
 
-### 🚀 Link para o projeto online
+## 🚀 Link para o projeto online
 
 - [FoodBox](https://fabiomoura-m.github.io/foodbox/)
